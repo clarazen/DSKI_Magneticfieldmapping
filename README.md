@@ -2,5 +2,5 @@ Code accompanying paper Clara Menzen, Marnix Fetter, and Manon Kok: "Large-scale
 available at https://arxiv.org/abs/2310.16574
 
 Authors:
-Marnix Fetter (DSKI scalar potential)
-Clara Menzen (Basis functions, simulations and experiments)
+- Marnix Fetter (DSKI scalar potential)
+- Clara Menzen (Basis functions, simulations and experiments)
